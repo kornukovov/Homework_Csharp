@@ -1,0 +1,15 @@
+C:\IT_PROJECT\GeekBrains\lern C#\Homework\HW001\bin\Debug\net6.0\HW001.exe
+C:\IT_PROJECT\GeekBrains\lern C#\Homework\HW001\bin\Debug\net6.0\HW001.deps.json
+C:\IT_PROJECT\GeekBrains\lern C#\Homework\HW001\bin\Debug\net6.0\HW001.runtimeconfig.json
+C:\IT_PROJECT\GeekBrains\lern C#\Homework\HW001\bin\Debug\net6.0\HW001.dll
+C:\IT_PROJECT\GeekBrains\lern C#\Homework\HW001\bin\Debug\net6.0\HW001.pdb
+C:\IT_PROJECT\GeekBrains\lern C#\Homework\HW001\obj\Debug\net6.0\HW001.csproj.AssemblyReference.cache
+C:\IT_PROJECT\GeekBrains\lern C#\Homework\HW001\obj\Debug\net6.0\HW001.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT_PROJECT\GeekBrains\lern C#\Homework\HW001\obj\Debug\net6.0\HW001.AssemblyInfoInputs.cache
+C:\IT_PROJECT\GeekBrains\lern C#\Homework\HW001\obj\Debug\net6.0\HW001.AssemblyInfo.cs
+C:\IT_PROJECT\GeekBrains\lern C#\Homework\HW001\obj\Debug\net6.0\HW001.csproj.CoreCompileInputs.cache
+C:\IT_PROJECT\GeekBrains\lern C#\Homework\HW001\obj\Debug\net6.0\HW001.dll
+C:\IT_PROJECT\GeekBrains\lern C#\Homework\HW001\obj\Debug\net6.0\refint\HW001.dll
+C:\IT_PROJECT\GeekBrains\lern C#\Homework\HW001\obj\Debug\net6.0\HW001.pdb
+C:\IT_PROJECT\GeekBrains\lern C#\Homework\HW001\obj\Debug\net6.0\HW001.genruntimeconfig.cache
+C:\IT_PROJECT\GeekBrains\lern C#\Homework\HW001\obj\Debug\net6.0\ref\HW001.dll
